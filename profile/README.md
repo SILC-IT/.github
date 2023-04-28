@@ -11,17 +11,17 @@ The SILC Group is an alternative assets solutions specialist servicing the uniqu
 
 ### The Technology Team
 As the company's technology team, we aim to provide digital solutions required by either the operations or marketing teams. Our members consist of the following talented individuals:
-| Name               | Role               | Term         |
-|--------------------|--------------------|--------------|
-| Umair Mohammed     | Business Analyst   | 2020-present |
-| Muhammad Yousuf    | Front End Engineer | 2022-present |
-| Neha Syeda         | Front End Engineer | 2022-present |
-| Mounika Gonae      | Front End Engineer | 2023-present |
-| Roshan Adhikari    | Back End Engineer  | 2022-present |
-| Julian Tjiong      | Back End Engineer  | 2021-present |
-| Robert Shrestra    | Mobile Engineer    | 2022-present |
-| Tajammul Muhammad  | DevOps Engineer    | 2023-present |
-| Jyotshana Gorantla | Software Tester    | 2023-present |
+| Name               | Role               |
+|--------------------|--------------------|
+| Umair Mohammed     | Business Analyst   |
+| Muhammad Yousuf    | Front End Engineer |
+| Neha Syeda         | Front End Engineer |
+| Mounika Gonae      | Front End Engineer |
+| Roshan Adhikari    | Back End Engineer  |
+| Julian Tjiong      | Back End Engineer  |
+| Robert Shrestra    | Mobile Engineer    |
+| Tajammul Muhammad  | DevOps Engineer    |
+| Jyotshana Gorantla | Software Tester    |
 
 ### Products
 The technology team is responsible for the following products:
