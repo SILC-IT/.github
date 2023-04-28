@@ -21,7 +21,7 @@ As the company's technology team, we aim to provide digital solutions required b
 | Julian Tjiong      | Back End Engineer  |
 | Robert Shrestra    | Mobile Engineer    |
 | Tajammul Muhammad Shareef  | DevOps Engineer    |
-| Jyothsna Sidhu Gorantla  | Software Tester    |
+| Jyothsna Sindhu Gorantla  | Software Tester    |
 
 ### Products
 The technology team is responsible for the following products:
