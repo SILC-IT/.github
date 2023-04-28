@@ -32,4 +32,3 @@ The technology team is responsible for the following products:
 | silc.co Mobile         | silc.co's mobile platform, available in both Android and IOS                                     | 2020-present            |
 | silc KYC               | silc KYC provides a skin for FrankieOne's Smart UI.                                              | 2023-2023               |
 | The SILC Group Website | The official SILC Group's website.                                                               | 2020-2021               |
-=======
