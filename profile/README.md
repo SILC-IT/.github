@@ -16,12 +16,12 @@ As the company's technology team, we aim to provide digital solutions required b
 | Umair Mohammed     | Business Analyst   |
 | Muhammad Yousuf    | Front End Engineer |
 | Neha Syeda         | Front End Engineer |
-| Mounika Gonae      | Front End Engineer |
-| Roshan Adhikari    | Back End Engineer  |
+| Mounika Reddy Gonae      | Front End Engineer |
+| Roshan Manjushree Adhikari    | Back End Engineer  |
 | Julian Tjiong      | Back End Engineer  |
 | Robert Shrestra    | Mobile Engineer    |
-| Tajammul Muhammad  | DevOps Engineer    |
-| Jyothsna Gorantla  | Software Tester    |
+| Tajammul Muhammad Shareef  | DevOps Engineer    |
+| Jyothsna Sidhu Gorantla  | Software Tester    |
 
 ### Products
 The technology team is responsible for the following products:
