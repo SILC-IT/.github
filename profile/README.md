@@ -14,19 +14,7 @@ As the company's technology team, we aim to provide digital solutions required b
 | Name               | Role               |
 |--------------------|--------------------|
 | Umair Mohammed     | Business Analyst   |
-| Muhammad Yousuf    | Front End Engineer |
 | Mounika Reddy Gonae      | Front End Engineer |
 | Roshan Manjushree Adhikari    | Back End Engineer  |
 | Julian Tjiong      | Back End Engineer  |
-| Robert Shrestra    | Mobile Engineer    |
 | Jyothsna Sindhu Gorantla  | Software Tester    |
-
-### Products
-The technology team is responsible for the following products:
-| Application Title      | Description                                                                                      | Period                  |
-|------------------------|--------------------------------------------------------------------------------------------------|-------------------------|
-| silc.co                | silc.co is a product of The SILC Group, an Investment matchmaking and asset management platform. | 2021-2022, 2023-present |
-| silc Forms             | silc Forms is a product aiming to replace operation team's SnapForms.                            | 2022-2023               |
-| silc.co Mobile         | silc.co's mobile platform, available in both Android and IOS                                     | 2020-present            |
-| silc KYC               | silc KYC provides a skin for FrankieOne's Smart UI.                                              | 2023-2023               |
-| The SILC Group Website | The official SILC Group's website.                                                               | 2020-2021               |
