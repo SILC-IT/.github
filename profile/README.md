@@ -13,8 +13,7 @@ The SILC Group is an alternative assets solutions specialist servicing the uniqu
 As the company's technology team, we aim to provide digital solutions required by either the operations or marketing teams. Our members consist of the following talented individuals:
 | Name               | Role               |
 |--------------------|--------------------|
-| Umair Mohammed     | Business Analyst   |
 | Mounika Reddy Gonae      | Front End Engineer |
 | Roshan Manjushree Adhikari    | Back End Engineer  |
-| Julian Tjiong      | Back End Engineer  |
 | Jyothsna Sindhu Gorantla  | Software Tester    |
+| JLoke Moon Ng  | DevOps    |
