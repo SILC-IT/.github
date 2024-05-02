@@ -16,4 +16,4 @@ As the company's technology team, we aim to provide digital solutions required b
 | Mounika Reddy Gonae      | Front End Engineer |
 | Roshan Manjushree Adhikari    | Back End Engineer  |
 | Jyothsna Sindhu Gorantla  | Software Tester    |
-| JLoke Moon Ng  | DevOps    |
+| Loke Moon Ng  | DevOps    |
