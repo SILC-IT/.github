@@ -17,3 +17,4 @@ As the company's technology team, we aim to provide digital solutions required b
 | Roshan Manjushree Adhikari    | Back End Engineer  |
 | Jyothsna Sindhu Gorantla  | Software Tester    |
 | Loke Moon Ng  | DevOps    |
+| Raqif Mahat | Back End Engineer |
